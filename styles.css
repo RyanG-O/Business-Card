@@ -1,0 +1,47 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: 120px;
+}
+
+.avatar {
+    width: 200px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: bisque;
+}
+
+.border {
+    border: 3px solid darkkhaki;
+}
+
+.name {
+    font-weight: bold;
+    font-size: large;
+    margin: 0;
+}
+
+.position {
+    font-size: normal;
+    font-weight: bold;
+}
+
+.location {
+    font-size: small;
+    margin: 0
+}
+
+.phone {
+    font-size: small;
+}
